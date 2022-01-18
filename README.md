@@ -2,11 +2,11 @@
 
  * Stationary : A stationary process has the property that the mean, variance and autocorrelation structure do not change over time.
 
- * Trend
+ * Trend : The linear increasing or decreasing behavior of the series over time.
 
- * Seasonality
+ * Seasonality : The repeating patterns or cycles of behavior over time.  Seasonality is always of a fixed and known period
 
- * Cycle
+ * Cycle : A cyclic pattern exists when data exhibit rises and falls that are not of fixed period. The duration of these fluctuations is usually of at least 2 years. Think of business cycles which usually last several years, but where the length of the current cycle is unknown beforehand.
 
 ### Smoothing Methods
 
